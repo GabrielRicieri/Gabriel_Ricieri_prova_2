@@ -4,12 +4,11 @@ body{
     margin: auto;
 }
 input{
-    border: none;
-    width: 100%;
+    border-collapse: collapse;
+    width: 600%;
 }
 
 table{
-    margin: auto;
     width: 100%;
 }
 
@@ -17,6 +16,3 @@ thead {
     text:center;
 }
 
-td{
-   border: 1px solid black; 
-}
